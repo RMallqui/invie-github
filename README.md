@@ -1,2 +1,4 @@
-# invie-github
-tus mejores guitarras invie-sibles by @platzi xD
+# invie
+Las guitarras más locas
+
+http://rmallqui.github.io/inviegithub/
